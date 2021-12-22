@@ -1,8 +1,3 @@
-/*******************
- * Evan Li (books.js)
- * 301139281
- * Web app: evanlimidterm.herokuapp.com
- **********************/
 let express = require('express');
 let router = express.Router();
 let mongoose = require('mongoose');
